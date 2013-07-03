@@ -14,8 +14,4 @@
 /log/*.log
 /tmp
 
-<<<<<<< HEAD
 /.idea
-=======
-.idea
->>>>>>> static-pages
